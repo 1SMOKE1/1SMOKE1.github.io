@@ -1,5 +1,5 @@
 {
-  "users": [
+  "usersData": [
     {"name": "Anton", "followed": "false", "location": {"country": "Ukraine", "city": "Lviv"}, "pageStatus": "'I`m happy", "id": "1"},
     {"name": "Kirill", "followed": "true",  "location": {"country": "Poland", "city": "Bydgosh"}, "pageStatus": "Poland is the best!!","id": "2"},
     {"name": "Yaroslav", "followed": "true",  "location": {"country": "Slovakia", "city": "capital"}, "pageStatus": "Childrens most of all", "id": "3"}
